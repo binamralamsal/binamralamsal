@@ -1,6 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Binamra Lamsal.
 
+---
+
 <img src="https://img.shields.io/twitter/follow/binamralamsal?style=for-the-badge" />
+
+---
 
 A FullStack Web Developer with knowledge of JavaScript, Python, Django, Node JS, React JS, etc. Knowledge with all the technologies that I have mentioned below.
 
