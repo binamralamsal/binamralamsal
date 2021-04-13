@@ -26,6 +26,12 @@ I know some about designing too though I am not a professional designer. Just sc
 
 [![Binamra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binamracode&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### ✴️ My Top Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binamracode&repo=100DaysOfCode&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binamracode&repo=crystalstocks&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binamracode&repo=My-simple-blog&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binamracode&repo=ePaste&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **binamracode/binamracode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
