@@ -20,20 +20,20 @@ I know some about designing too though I am not a professional designer. Just sc
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binamracode&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binamralamsal&layout=compact&theme=ayu-mirage)
 
-[![Binamra's GitHub stats](https://github-readme-stats.vercel.app/api?username=binamracode&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) 
+![Binamra's GitHub stats](https://github-readme-stats.vercel.app/api?username=binamralamsal&theme=ayu-mirage)
 
-[![Binamra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binamracode&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+![Binamra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binamralamsal&theme=ayu-mirage)
 
 ---
 
 ### ✴️ My Top Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binamracode&repo=100DaysOfCode&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binamracode&repo=crystalstocks&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binamracode&repo=My-simple-blog&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binamracode&repo=ePaste&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binamralamsal&repo=100DaysOfCode&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binamralamsal&repo=crystalstocks&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binamralamsal&repo=My-simple-blog&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binamralamsal&repo=ePaste&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**binamracode/binamracode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**binamralamsal/binamralamsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
