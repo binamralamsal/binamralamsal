@@ -1,22 +1,121 @@
 <h1 align="center">Hi 👋, I'm Binamra Lamsal</h1>
-<h3 align="center">A FullStack Web Developer with knowledge of JavaScript, Python, Django, Node JS, React JS, etc. Knowledge with all the technologies that I have mentioned below. I always try to improve my skills to make me more experienced in skilled. Programming is my hobby and I will never leave programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binamralamsal&label=Profile%20views&color=0e75b6&style=flat" alt="binamralamsal" /> </p>
+<h3 align="center">A FullStack Web Developer learning and exploring new things</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binamralamsal" alt="binamralamsal" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/binamralamsal" target="blank"><img src="https://img.shields.io/twitter/follow/binamralamsal?logo=twitter&style=for-the-badge" alt="binamralamsal" /></a> </p>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/binamralamsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binamralamsal" height="30" width="40" /></a>
-</p>
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=binamralamsal&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/binamralamsal)
+[![Twitter @binamralamsal](https://img.shields.io/twitter/follow/binamralamsal?logo=twitter&style=for-the-badge)](https://twitter.com/binamralamsal)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=binamralamsal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binamralamsal&show_icons=true&locale=en&layout=compact" alt="binamralamsal" /></p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=binamralamsal&theme=radical&margin-h=10&no-frame=true&column=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binamralamsal&show_icons=true&locale=en" alt="binamralamsal" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binamralamsal&" alt="binamralamsal" /></p>
+### Languages and Tools:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/html.png" width="48" height="48" alt="HTML" />
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/CSS.png" width="48" height="48" alt="CSS" />
+        </a>
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/js.png" width="48" height="48" alt="Javascript" />
+        </a>
+        <br>Javascript
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/typescript.png" width="48" height="48" alt="Typescript" />
+        </a>
+        <br>Typescript
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/sass.png" width="48" height="48" alt="Sass" />
+        </a>
+        <br>Sass
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/python.png" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.JS" />
+        </a>
+        <br>Node.JS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" width="48" height="48" alt="React.JS" />
+        </a>
+        <br>React.JS
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+        </a>
+        <br>Express
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" width="48" height="48" alt="Django" />
+        </a>
+        <br>Django
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongodb" />
+        </a>
+        <br>Mongodb
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+        </a>
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="WordPress" />
+        </a>
+        <br>WordPress
+      </td>
+    </tr>
+  </table>
+</div>
+
+### GitHub Stats:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;" align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binamralamsal&show_icons=true&locale=en&theme=radical)
+
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=binamralamsal&show_icons=true&locale=en&theme=radical&layout=compact)
+
+</div>
