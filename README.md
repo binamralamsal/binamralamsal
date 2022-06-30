@@ -22,39 +22,9 @@
     <tr>
       <td align="center" width="96">
         <a>
-          <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/html.png" width="48" height="48" alt="HTML" />
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-        <a>
-          <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/CSS.png" width="48" height="48" alt="CSS" />
-        </a>
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <a>
-          <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/js.png" width="48" height="48" alt="Javascript" />
-        </a>
-        <br>Javascript
-      </td>
-      <td align="center" width="96">
-        <a>
           <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/typescript.png" width="48" height="48" alt="Typescript" />
         </a>
         <br>Typescript
-      </td>
-      <td align="center" width="96">
-        <a>
-          <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/sass.png" width="48" height="48" alt="Sass" />
-        </a>
-        <br>Sass
-      </td>
-      <td align="center" width="96">
-        <a>
-          <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/python.png" width="48" height="48" alt="Python" />
-        </a>
-        <br>Python
       </td>
       <td align="center" width="96">
         <a>
@@ -62,9 +32,13 @@
         </a>
         <br>Node.JS
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
+        <a>
+          <img src="https://github.com/binamralamsal/binamralamsal/raw/main/images/sass.png" width="48" height="48" alt="Sass" />
+        </a>
+        <br>Sass
+      </td>
+<td align="center" width="96">
         <a>
           <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" width="48" height="48" alt="React.JS" />
         </a>
@@ -75,12 +49,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/express/express-original.svg" width="48" height="48" alt="Express" />
         </a>
         <br>Express
-      </td>
-      <td align="center" width="96">
-        <a>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" width="48" height="48" alt="Django" />
-        </a>
-        <br>Django
       </td>
       <td align="center" width="96">
         <a>
@@ -99,12 +67,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
         </a>
         <br>Figma
-      </td>
-      <td align="center" width="96">
-        <a>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="WordPress" />
-        </a>
-        <br>WordPress
       </td>
     </tr>
   </table>
